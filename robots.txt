@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://sizhec.github.io//sitemap.xml
+Sitemap: https://sizhe.github.io/home/sitemap.xml
